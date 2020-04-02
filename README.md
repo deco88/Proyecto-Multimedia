@@ -1,4 +1,4 @@
-## Proyecto Multimedia 
+## Proyecto Multimedia - Edeportes
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -17,7 +17,7 @@ Univesidad de Granada
 
 **logotipo** :  Logotipo con las Iniciales del programa Edeportes (ED)
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Un programa para gamers
 
 **Hashtag**  ___
 
