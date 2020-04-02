@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## Proyecto Multimedia 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,11 +9,11 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Edeportes
 
-**Autor(es)** ______________
+**Autor(es)** Diego González Chaparro
 
-**Resumen** : _________
+**Resumen** : Proyecto enfocado en el formato streaming y dedicado al mundo de los deportes electrónicos.
 
 **logotipo** :  ________
 
@@ -25,12 +25,8 @@ Univesidad de Granada
 
 **Fecha** : 2020
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): Twitch como medio principal con el apoyo del Blog Edeportes realizado con wordpress. Además de redes sociales como Twitter o Youtube.
 
-
-*  :octocat: (github url) 
-* Twitter 
-* ... 
 
 
 
@@ -46,23 +42,17 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* El chiringuito de SLO realizado en Twitch
+* Esportmaniacos también Twitch
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** el fenómeno streaming es actualmente uno de los contenidos audiovisuales más consumidos a nivel mundial, las posibilidades son muy grandes ya que se puede realizar desde cualquier lugar con una conexión a internet y el dispositivo disponible. La idea surgió debido a esta coyuntura que vivimos debido al Covid-19, pero este formato es algo que ya se ha realizado y explorado por otras personas con programas de referencia dentro del sector como Esportmaníacos, o más recientemente El Chiringuito de SLO.
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** usar el formato streaming a través de la herramienta Twitch para crear contenido informativo sobre el mundo de los videojuegos en general y el fenómeno de los deportes electrónicos como enfoque principal. Para ello se realizarían tertulias, debates e informativos sobre jornadas deportivas de diferentes juegos, lanzamiento de los títulos más esperados y críticas sobre los mismos, o cualquier tipo de contenido interesante para la comunidad gamer que tanta influencia está adquiriendo en los últimos años.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  tengo personas que están dentro del mundo de los esports y podrían ser colaboradores del programa. Y el público objetivo es aquel que se interese por este fenómeno.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
-
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+**Estilo de narración**  El streaming en Twitch se realizará desde un tono relajado y menos serio que el de un infromativo habitual, aún así se tratará de aportar el mayor valor posible a los contenidos.
 
 
 
@@ -71,10 +61,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+La imagen visual se adaptaría al ya exisente blog de Edeportes, un proyecto que ya tiene tiempo y del que ya tengo Logotipos, imagenes, etc. En cuanto a Twitch se crearía un canal con el nombre del programa y el logotipo del mismo.
 
-* redes sociales (...) 
+* redes sociales Twitter como red promocional del programa y Youtube para resubir los directos.
 
-* publicidad: banner (... ) 
+* publicidad:
 
 * ...
 
