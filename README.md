@@ -15,13 +15,13 @@ Univesidad de Granada
 
 **Resumen** : Proyecto enfocado en el formato streaming y dedicado al mundo de los deportes electrónicos.
 
-**logotipo** :  ________
+**logotipo** :  Logotipo con las Iniciales del programa Edeportes (ED)
 
 **Slogan** (frase motivadora/inspiradora): ________
 
 **Hashtag**  ___
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**
 
 **Fecha** : 2020
 
