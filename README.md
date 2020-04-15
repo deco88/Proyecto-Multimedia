@@ -19,7 +19,7 @@ Univesidad de Granada
 
 **Slogan** (frase motivadora/inspiradora): Un programa para gamers
 
-**Hashtag**  ___
+**Hashtag**  #Edeportes #EdeportesTV
 
 **Licencia**
 
@@ -66,6 +66,7 @@ La imagen visual se adaptaría al ya exisente blog de Edeportes, un proyecto que
 * redes sociales Twitter como red promocional del programa y Youtube para resubir los directos.
 
 * publicidad:
+No existirá publicidad como tal.
 
 * ...
 
@@ -73,8 +74,8 @@ La imagen visual se adaptaría al ya exisente blog de Edeportes, un proyecto que
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+* Twitch tiene sus propios medidores y se puede estudiar bastante bien al público que te sigue. Además puedes ir haciendo estimaciones de ingresos y así tener siempre un plan de actuación con respecto a tu proyecto.
+* 
 
 
 
@@ -84,9 +85,12 @@ La imagen visual se adaptaría al ya exisente blog de Edeportes, un proyecto que
 
 
 * Grado de consecución del proyecto 
+El grado de consecución ha sido la creación del canal, con todos sus logotipos y su diseño personalizado y además, el guión del primer programa que iba a servir a modo de piloto.
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+No se ha podido realizar el piloto del primer programa debido a problemas con la CPU. Me he visto obligado a trabajar con un portatil que no soportaría la realización de una retransmisión en Twitch en el que se pudieran integrar webcams, videollamadas, repeticiones de jugadas o reporoducción de juegos.
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+Creo que el proyecto tiene mucho interés ya que se encuentra enmarcado dentro de un mundo que no para de crecer, los depores electrónicos son tendencia y tampoco existen una gran cantidad de programas en habla hispana sore ellos. La oportunidad está ahí y hay que aprovecharla. En cuanto a las colaboraciones, por experiencia propia, no es difícil contactar con jugadores profesionales, que podrían hacer entrevistas y pequeñas colaboraciones. Además, por suerte conozco a varias personas que entienden sobre diferentes videojuegos por lo que estaría bastante arropado. El proyecto por lo tanto me parece del todo viable y con bastante posibilidades.
 
 
 Referencias y recursos: 
