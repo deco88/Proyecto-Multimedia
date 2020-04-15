@@ -103,6 +103,8 @@ Sección para repasar las últimas noticias sobre los mejores shooter del mercad
 -	Territorio Gamer – 45 minutos
 Sección para hablar de otros videojuegos, noticias curiosas y novedades sobre estos. Cada día se anuncian nuevos juegos que se pueden comentar, o hay noticias relacionadas con nuevos títulos. En el primer programa (muy enfocado a la época en la que estamos viviendo): los retrasos en el estreno de títulos importantes por culpa del COVID-19, los mejores juegos para el confinamiento en oferta, y además, comentamos las mejores casas hasta el momentos en el nuevo Animal Crossing New Horizons.
 
+Además, aquí dejo el enlace del blog anteriormente realizado y que conforma la imagen de marca: https://edeportesnet.wordpress.com/ 
+
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 No se ha podido realizar el piloto del primer programa debido a problemas con la CPU. Me he visto obligado a trabajar con un portatil que no soportaría la realización de una retransmisión en Twitch en el que se pudieran integrar webcams, videollamadas, repeticiones de jugadas o reporoducción de juegos.
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
